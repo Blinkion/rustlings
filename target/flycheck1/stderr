@@ -1,5 +1,5 @@
-   0.012246166s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "arc1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
-   0.012496583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-e6ec1435c7366746/test-bin-arc1`
+   0.012134792s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "arc1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
+   0.012153333s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-e6ec1435c7366746/test-bin-arc1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -22,8 +22,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.022263500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "arc1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
-   0.022269666s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-2f0a1d1205ee8bf6/bin-arc1`
+   0.014424583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "arc1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
+   0.014430917s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-2f0a1d1205ee8bf6/bin-arc1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -46,8 +46,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.022929375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
-   0.022932791s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-2614ac0ea626c6de/test-bin-as_ref_mut`
+   0.014806333s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
+   0.014811250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-2614ac0ea626c6de/test-bin-as_ref_mut`
 
 Caused by:
     No such file or directory (os error 2)
@@ -70,8 +70,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.023240375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
-   0.023243416s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-b3d16478d4b9b415/bin-as_ref_mut`
+   0.014980708s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
+   0.014983917s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-b3d16478d4b9b415/bin-as_ref_mut`
 
 Caused by:
     No such file or directory (os error 2)
@@ -94,8 +94,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.023765000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "box1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
-   0.023767916s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-d9e6174d47178b87/test-bin-box1`
+   0.015287833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "box1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
+   0.015290792s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-d9e6174d47178b87/test-bin-box1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -118,8 +118,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.024000250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "box1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
-   0.024002958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-645f8b164d025225/bin-box1`
+   0.015436042s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "box1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
+   0.015438750s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-645f8b164d025225/bin-box1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -142,8 +142,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.026725125s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="cow1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "cow1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/cow1.rs", Edition2024) }
-   0.026733250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="cow1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-65b111650c63210d/test-bin-cow1`
+   0.016642875s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="cow1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "cow1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/19_smart_pointers/cow1.rs", Edition2024) }
+   0.016645833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="cow1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-65b111650c63210d/test-bin-cow1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -166,8 +166,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.034702416s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
-   0.034708416s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-2df6505693a54afd/test-bin-from_into`
+   0.019874458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
+   0.019880292s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-2df6505693a54afd/test-bin-from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -190,8 +190,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.034882541s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
-   0.034886500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-7f370beb89a0bfd8/bin-from_into`
+   0.020043417s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
+   0.020047333s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-7f370beb89a0bfd8/bin-from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -214,8 +214,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.035408666s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "from_str", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
-   0.035412125s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-28a6e1f48f478907/test-bin-from_str`
+   0.020333542s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "from_str", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
+   0.020341208s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-28a6e1f48f478907/test-bin-from_str`
 
 Caused by:
     No such file or directory (os error 2)
@@ -238,8 +238,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.035550958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "from_str", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
-   0.035554166s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-d261016b1d5970d2/bin-from_str`
+   0.020488500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "from_str", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
+   0.020492500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-d261016b1d5970d2/bin-from_str`
 
 Caused by:
     No such file or directory (os error 2)
@@ -262,8 +262,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.047211125s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators1.rs", Edition2024) }
-   0.047215625s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-5ce951e9e14a4de9/test-bin-iterators1`
+   0.025460583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators1.rs", Edition2024) }
+   0.025469750s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-5ce951e9e14a4de9/test-bin-iterators1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -286,8 +286,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.048050500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
-   0.048053416s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-b72b590e509953ba/test-bin-iterators2`
+   0.025920625s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
+   0.025928833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-b72b590e509953ba/test-bin-iterators2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -310,8 +310,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.048201041s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "iterators2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
-   0.048203833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-e426b13d7148b859/bin-iterators2`
+   0.026097292s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "iterators2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
+   0.026101375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-e426b13d7148b859/bin-iterators2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -334,8 +334,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.048709916s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators3.rs", Edition2024) }
-   0.048712500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-9682b5c91fa04aa0/test-bin-iterators3`
+   0.026434292s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators3.rs", Edition2024) }
+   0.026437583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-9682b5c91fa04aa0/test-bin-iterators3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -358,8 +358,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.049366125s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
-   0.049368958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-de40809b07a4a405/test-bin-iterators4`
+   0.026876792s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
+   0.026882875s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-de40809b07a4a405/test-bin-iterators4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -382,8 +382,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.049502208s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "iterators4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
-   0.049505125s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-b0e998a0adc9af29/bin-iterators4`
+   0.027056708s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "iterators4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
+   0.027060833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-b0e998a0adc9af29/bin-iterators4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -406,8 +406,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.050042458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators5", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
-   0.050045041s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-cfb6e1e09e2e7441/test-bin-iterators5`
+   0.027369958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "iterators5", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
+   0.027373833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-cfb6e1e09e2e7441/test-bin-iterators5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -430,8 +430,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.050174125s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "iterators5", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
-   0.050177000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-1ae79c98b185b8ac/bin-iterators5`
+   0.027546250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "iterators5", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
+   0.027549833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-1ae79c98b185b8ac/bin-iterators5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -454,8 +454,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.052873625s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
-   0.052876583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-c816a81b5ade988a/test-bin-macros1`
+   0.028827042s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
+   0.028830000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-c816a81b5ade988a/test-bin-macros1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -478,8 +478,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.053007375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
-   0.053010375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-a47949c7eb44e902/bin-macros1`
+   0.028971958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
+   0.028974542s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-a47949c7eb44e902/bin-macros1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -502,8 +502,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.053549625s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
-   0.053552208s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-8e7645cb5f908ef5/test-bin-macros2`
+   0.029304125s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
+   0.029309750s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-8e7645cb5f908ef5/test-bin-macros2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -526,8 +526,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.053681458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
-   0.053684166s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-929c14627de54c24/bin-macros2`
+   0.029471667s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
+   0.029474833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-929c14627de54c24/bin-macros2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -550,8 +550,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.054199500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
-   0.054202250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-51a25838f3878ff3/test-bin-macros3`
+   0.029759083s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
+   0.029761583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-51a25838f3878ff3/test-bin-macros3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -574,8 +574,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.054330625s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
-   0.054333458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-58be1183364fe848/bin-macros3`
+   0.029896958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
+   0.029899375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-58be1183364fe848/bin-macros3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -598,8 +598,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.054897541s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
-   0.054899916s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-9baf9df522ccd11d/test-bin-macros4`
+   0.030180375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "macros4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
+   0.030182792s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-9baf9df522ccd11d/test-bin-macros4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -622,8 +622,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.055025458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
-   0.055027958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-81d4b27c908fc664/bin-macros4`
+   0.030322042s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "macros4", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
+   0.030324458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-81d4b27c908fc664/bin-macros4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -646,8 +646,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.078656708s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "threads1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
-   0.078666000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-15e113f7a7a47acb/test-bin-threads1`
+   0.039941500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "threads1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
+   0.039946583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-15e113f7a7a47acb/test-bin-threads1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -670,8 +670,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.078962333s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "threads1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
-   0.078966083s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-bf61a11f5ac1603f/bin-threads1`
+   0.040121708s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "threads1", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
+   0.040124458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-bf61a11f5ac1603f/bin-threads1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -694,8 +694,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.079498666s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "threads2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
-   0.079501708s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-9f96c6660be9415c/test-bin-threads2`
+   0.040406333s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "threads2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
+   0.040409000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-9f96c6660be9415c/test-bin-threads2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -718,8 +718,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.079641458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "threads2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
-   0.079644416s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-6c0de19ffbbb328e/bin-threads2`
+   0.040552542s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "threads2", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
+   0.040555000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-6c0de19ffbbb328e/bin-threads2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -742,8 +742,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.080175291s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "threads3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
-   0.080177833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-37f4bd327c083830/test-bin-threads3`
+   0.040849833s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "threads3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
+   0.040852250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-37f4bd327c083830/test-bin-threads3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -766,8 +766,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.080307875s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "threads3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
-   0.080310583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-7717ae8b6a215c2e/bin-threads3`
+   0.040985625s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "threads3", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
+   0.040988000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-7717ae8b6a215c2e/bin-threads3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -790,8 +790,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.084389625s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
-   0.084394791s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-0e68b630f80e0c1d/test-bin-try_from_into`
+   0.042701708s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
+   0.042706875s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-0e68b630f80e0c1d/test-bin-try_from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -814,8 +814,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.084564375s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
-   0.084568541s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-ce728246f20ea032/bin-try_from_into`
+   0.042861750s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
+   0.042864208s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-ce728246f20ea032/bin-try_from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -838,8 +838,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.085130583s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "using_as", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
-   0.085134166s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-ad4b50ce7a69ef07/test-bin-using_as`
+   0.043148542s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: true }/TargetInner { name: "using_as", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
+   0.043152917s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-ad4b50ce7a69ef07/test-bin-using_as`
 
 Caused by:
     No such file or directory (os error 2)
@@ -862,8 +862,8 @@ Stack backtrace:
   14: std::rt::lang_start::<()>::{closure#0}
   15: std::rt::lang_start_internal
   16: _main
-   0.085271166s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "using_as", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
-   0.085274416s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-fc97cd96bd99c48a/bin-using_as`
+   0.043328250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/Users/syf/work/rustlings)/Check { test: false }/TargetInner { name: "using_as", doc: true, ..: with_path("/Users/syf/work/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
+   0.043332500s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/Users/syf/work/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/syf/work/rustlings/target/debug/.fingerprint/exercises-fc97cd96bd99c48a/bin-using_as`
 
 Caused by:
     No such file or directory (os error 2)
@@ -887,41 +887,41 @@ Stack backtrace:
   15: std::rt::lang_start_internal
   16: _main
     Checking exercises v0.0.0 (/Users/syf/work/rustlings)
-error: could not compile `exercises` (bin "macros4" test) due to 1 previous error
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `exercises` (bin "macros2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "macros3" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
-error: could not compile `exercises` (bin "box1") due to 3 previous errors
-error: could not compile `exercises` (bin "box1" test) due to 3 previous errors
-error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
-error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
-error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
-error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "macros4") due to 1 previous error
 error: could not compile `exercises` (bin "threads1" test) due to 1 previous error
-error: could not compile `exercises` (bin "threads3") due to 1 previous error
-error: could not compile `exercises` (bin "threads3" test) due to 1 previous error
-error: could not compile `exercises` (bin "from_into") due to 1 previous error
-error: could not compile `exercises` (bin "try_from_into") due to 3 previous errors
-error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
+warning: build failed, waiting for other jobs to finish...
 error: could not compile `exercises` (bin "iterators4") due to 1 previous error
-error: could not compile `exercises` (bin "threads1") due to 1 previous error
-error: could not compile `exercises` (bin "macros1" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "arc1") due to 2 previous errors
-error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "from_str") due to 1 previous error
-error: could not compile `exercises` (bin "iterators1" test) due to 1 previous error; 4 warnings emitted
-error: could not compile `exercises` (bin "using_as") due to 1 previous error
-error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
-error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "iterators2") due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "macros3") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
+error: could not compile `exercises` (bin "from_into") due to 1 previous error
+error: could not compile `exercises` (bin "box1") due to 3 previous errors
 error: could not compile `exercises` (bin "arc1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
+error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
 error: could not compile `exercises` (bin "iterators2" test) due to 2 previous errors; 1 warning emitted
 error: could not compile `exercises` (bin "using_as" test) due to 1 previous error
-error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads1") due to 1 previous error
+error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
+error: could not compile `exercises` (bin "using_as") due to 1 previous error
+error: could not compile `exercises` (bin "box1" test) due to 3 previous errors
+error: could not compile `exercises` (bin "iterators1" test) due to 1 previous error; 4 warnings emitted
+error: could not compile `exercises` (bin "macros1" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "macros4") due to 1 previous error
+error: could not compile `exercises` (bin "from_str") due to 1 previous error
+error: could not compile `exercises` (bin "macros2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
+error: could not compile `exercises` (bin "try_from_into") due to 3 previous errors
+error: could not compile `exercises` (bin "arc1") due to 2 previous errors
 error: could not compile `exercises` (bin "from_into" test) due to 1 previous error
+error: could not compile `exercises` (bin "macros3" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "iterators2") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads3" test) due to 1 previous error
+error: could not compile `exercises` (bin "macros3") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
+error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "threads3") due to 1 previous error
+error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
+error: could not compile `exercises` (bin "macros4" test) due to 1 previous error
+error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
